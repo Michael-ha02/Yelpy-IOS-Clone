@@ -2,9 +2,8 @@
 //  File.swift
 //  Yelpy
 //
-//  Created by Memo on 5/21/20.
-//  Copyright © 2020 memo. All rights reserved.
-//
+//  Created by Memo on 4/22/21.
+
 
 import Foundation
 
