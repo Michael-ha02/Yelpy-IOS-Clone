@@ -2,9 +2,7 @@
 //  RestaurantCell.swift
 //  Yelpy
 //
-//  Created by Memo on 5/21/20.
-//  Copyright © 2020 memo. All rights reserved.
-//
+//  Created by Michael on 1/10/21.
 
 import UIKit
 import AlamofireImage
